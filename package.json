@@ -1,0 +1,20 @@
+{
+  "name": "Node-js-Server-Template",
+  "version": "1.0.0",
+  "description": "Node-js-Vara-Server-Template",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "@gear-js/api": "^0.38.1",
+    "@polkadot/extension-dapp": "^0.47.6",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "author": "",
+  "license": "ISC"
+}
